@@ -1,0 +1,11 @@
+type:
+  name: docker-container-0.1
+  base: abstract-executable
+  title: Docker container
+  description: <
+    This type describes an executable published as a Docker or OCI container.
+  references:
+    - text: Docker Inc
+      href: https://www.docker.com/
+    - text: Open Container Initiative (OCI)
+      href: https://opencontainers.org/
